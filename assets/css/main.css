@@ -301,7 +301,7 @@ h3, nav a, .kicker, footer .lockup .contant-wrap a {
 
 header {
   height: 400px;
-  background: url(/assets/img/hero-bg.jpg) center;
+  background: url('../img/hero-bg.jpg') center;
   background-size: cover; }
 
 .logo {
@@ -342,7 +342,7 @@ h1 {
   letter-spacing: 0.05em; }
 
 footer {
-  background: url(/assets/img/hero-bg.jpg) center;
+  background: url('../img/hero-bg.jpg') center;
   background-size: cover; }
   footer:after {
     content: "";
@@ -407,7 +407,7 @@ footer {
     width: 200px;
     max-width: 200px;
     border-radius: 50%;
-    background: url(/assets/img/1.jpg) center;
+    background: url('../img/1.jpg') center;
     background-size: cover;
     order: 3; }
   .face-lockup [class^="icon-"] {
